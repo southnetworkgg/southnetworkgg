@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2C2D72&height=250&section=header&text=South%20Network&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Premium%20Development%20for%20FiveM%20&%20RedM&descAlignY=55&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2C2D72&height=250&section=header&text=South%20Network&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Premium%20Development%20for%20FiveM%20and%20RedM&descAlignY=55&descAlign=62" />
 
 # 🚀 Bem-vindo à South Network!
 
@@ -59,14 +59,50 @@ Nossos produtos são desenvolvidos utilizando as melhores stacks de tecnologia d
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🖥️ Linguagens de Programação
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,go,ts,js,solidity,lua,py" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,angular,html,css,bootstrap,tailwind" />
+</p>
+
+### 🔙 Ferramentas e Frameworks Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,fastify,rabbitmq" />
+</p>
+
+### 💾 Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+</p>
+
+### 🛠️ ORM e Banco de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize" />
+</p>
+
+### ☁️ Cloud e DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean,vercel,cloudflare" />
+</p>
+
+### 📦 Infraestrutura e Contêineres
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux" />
+</p>
+
+### 🔄 Controle de Versão e CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,githubactions" />
+</p>
+
+### 📊 Ferramentas e Editores
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sentry,vscode,vim,postman" />
+</p>
 
 </div>
 
